@@ -22,3 +22,4 @@ Open the local URL printed by Vite. A production build can be created with `npm 
 7. Open **Failure Simulator** and switch among Stable, Intermittent, High Latency, Packet Loss, Offline, and Reconnecting. Adjust latency, packet loss, and offline duration; the metrics update deterministically.
 
 For the fastest guided version, press **Run 20-sec demo** at the top of any view.
+# BoatSync-Twin
